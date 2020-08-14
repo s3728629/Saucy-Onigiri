@@ -1,0 +1,36 @@
+body {
+    font-size: 14px;
+    padding: 40px 170px 40px 170px; 
+}
+#centered-text {
+    font-size: 49px;
+    text-align: center;
+}
+
+#centered-text2 {
+    font-size: 27px;
+    text-align: center;
+}
+
+
+#subheading-text {
+    font-weight: bold;
+}
+
+table, td, th {
+    border: 1px solid rgb(31, 31, 31);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 3px 14px 3px 14px;
+    text-align: left;
+}
+
+#subsubheading-text {
+    font-weight: bold;
+}
