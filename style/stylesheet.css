@@ -113,16 +113,14 @@ div.member {
   background-color: #777581;
 }
 
-table, td, th {
-    border: 1px solid rgb(31, 31, 31);
-}
-
 table {
     border-collapse: collapse;
     width: 100%;
+	border: 5px solid rgb(31, 31, 31);
 }
 
 th, td {
-    padding: 3px 14px 3px 14px;
+    padding: 25px;
     text-align: left;
+	border: 3px solid rgb(31, 31, 31);
 }
