@@ -1,25 +1,25 @@
 h2 {
 border: 10px solid #3D3A4B;	
-background-color: #937666;
+background-color: #3D3A4B;
 color: white;
 padding: 5px;
 display:inline;
 
 }
 footer {
-background-color: #937666;
+background-color: #9de1fc;
 font-style: italic;
 text-align: center;
 }
 body {
   width: 1200px;
   margin: auto;
-  border: 10px solid #937666;
+  border: 10px solid #3D3A4B;
   padding-top: 50px;
   padding-right: 80px;
   padding-bottom: 50px;
   padding-left: 80px;
-  background-color: #B19994;
+  background-color: #e7e7e7;
   }
 div.header {
   width: 1200px;
@@ -36,14 +36,14 @@ div.heading {
 div.member {
   margin: auto;
   margin-bottom: 10px;
-  border: 8px solid #937666;
+  border: 8px solid #9de1fc;
   padding-top: 50px;
   padding-right: 80px;
   padding-bottom: 50px;
   padding-left: 80px;
 }
 .nav {
-  background-color: #937666;
+  background-color: #9de1fc;
   list-style-type: none;
   text-align: center;
   margin: auto;
